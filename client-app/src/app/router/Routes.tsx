@@ -1,6 +1,5 @@
 import {createBrowserRouter, RouteObject} from 'react-router';
 import App from '../layout/App.tsx';
-import HomePage from '../../features/home/HomePage.tsx';
 import ActivityDashboard from '../../features/activities/dashboard/ActivityDashboard.tsx';
 import ActivityForm from '../../features/activities/form/ActivityForm.tsx';
 import ActivityDetails from '../../features/activities/details/ActivityDetails.tsx';
